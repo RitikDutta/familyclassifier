@@ -1,2 +1,6 @@
 # familyclassifier
-![screensht](./img/jsf.jpg)
+## Example
+![screensht](./img/fc.png)
+
+## Link to Running Model
+https://famclassifier.herokuapp.com/
